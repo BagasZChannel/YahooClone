@@ -6,6 +6,6 @@ pkg install pip2<br>
 pip2 install requests<br>
 pip2 install mechanize<br>
 pkg install git<br>
-git clone https://github/BagasZChannel/YahooClone<br>
+git clone https://github.com/BagasZChannel/YahooClone<br>
 cd cloning-yahoo<br>
 python2 yahoo.py<br>
